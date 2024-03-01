@@ -12,7 +12,7 @@ Existen muchas formas en la que puedes contribuir a este proyecto:
 
 - **Feature Requests**: Si tienes una idea para una nueva función o mejora, abre una incidencia en nuestro gestor de incidencias de GitHub y etiquétala como "feature request". Describa la característica y su caso de uso en detalle.
 
-- **Pull Requests:** Si desea contribuir con cambios en el código o la documentación, le animamos a que envíe un pull request (PR). Por favor, sigue las directrices descritas en la sección [Contribuyendo con código]([CONTRIBUTING.md](https://github.com/mef-lab/.github/blob/main/CONTRIBUTING.md#contribuyendo-con-c%C3%B3digo)) más abajo.
+- **Pull Requests:** Si desea contribuir con cambios en el código o la documentación, le animamos a que envíe un pull request (PR). Por favor, sigue las directrices descritas en la sección [Contribuyendo con código](https://github.com/mef-lab/.github/blob/main/CONTRIBUTING.md#contribuyendo-con-c%C3%B3digo) más abajo.
 
 - **Documentation:** i encuentras algún error o tienes sugerencias para mejorar nuestra documentación, puedes enviar los cambios directamente a través de un pull request.
 
