@@ -38,7 +38,7 @@ Si vas a contribuir con código, por favor, sigue estas directrices:
 
 ## Código de Conducta
 
-Tenga en cuenta que disponemos de un [Código de conducta](CODE_OF_CONDUCT). Esperamos que todos los contribuyentes se adhieran a él, tanto en las interacciones dentro de este proyecto como en las interacciones con otros miembros del proyecto.
+Tenga en cuenta que disponemos de un [Código de conducta](CODE-OF-CONDUCT.md). Esperamos que todos los contribuyentes se adhieran a él, tanto en las interacciones dentro de este proyecto como en las interacciones con otros miembros del proyecto.
 
 ## Licencia
 
