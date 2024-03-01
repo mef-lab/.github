@@ -1,6 +1,6 @@
 # Contribuciones
 
-Gracias por considerar la posibilidad de contribuir. Apreciamos su interés en ayudarnos a mejorar nuestro proyecto. Al contribuir, usted se compromete a cumplir con nuestro [Código de Conducta](CODE_OF_CONDUCT.md).
+Gracias por considerar la posibilidad de contribuir. Apreciamos su interés en ayudarnos a mejorar nuestro proyecto. Al contribuir, usted se compromete a cumplir con nuestro [Código de Conducta](CODE-OF-CONDUCT.md).
 
 Tómese un momento para leer este documento, en el que encontrará información importante sobre cómo contribuir eficazmente.
 
