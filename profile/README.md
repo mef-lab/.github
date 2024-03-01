@@ -1,4 +1,4 @@
-# MEF Lab en GitHub
+# MEFLab en GitHub
 
 ¡Bienvenido a la organización en GitHub del MEFLab! Esta organitzación en GitHub contiene varios proyectos, herramientas y recursos desarrollados por el equipo del Laboratorio de Innovación de Políticas Públicas - MEFLab.
 
