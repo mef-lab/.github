@@ -42,4 +42,4 @@ Tenga en cuenta que disponemos de un [Código de conducta](CODE-OF-CONDUCT.md). 
 
 ## Licencia
 
-Al contribuir a este proyecto, usted acepta que sus contribuciones serán licenciadas bajo la [licencia](LICENCIA.md) del proyecto.
+Al contribuir a este proyecto, usted acepta que sus contribuciones serán licenciadas bajo la [licencia](LICENSE.md) del proyecto.
