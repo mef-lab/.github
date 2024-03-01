@@ -4,11 +4,11 @@
 
 ## Contribuciones
 
-Agradecemos las contribuciones de la comunidad de código abierto. Si está interesado en contribuir o colaborar en nuestros proyectos, siga las directrices que se detallan en el archivo  [CONTRIBUTING](CONTRIBUTING.md) de cada repositorio.
+Agradecemos las contribuciones de la comunidad de código abierto. Si está interesado en contribuir o colaborar en nuestros proyectos, siga las directrices que se detallan en el archivo  [Contribuciones](CONTRIBUTING.md) de cada repositorio.
 
 ## Código de Conducta
 
-Nosotros mantenemos un [Codigo de Conducta](CODE_OF_CONDUCT.md) para garantizar un entorno inclusivo y respetuoso para todos. Le pedimos que lo respete en todas sus interacciones con nuestra comunidad.
+Nosotros mantenemos un [Codigo de Conducta](CODE-OF-CONDUCT.md) para garantizar un entorno inclusivo y respetuoso para todos. Le pedimos que lo respete en todas sus interacciones con nuestra comunidad.
 
 <!--  ## Discusiones
 
