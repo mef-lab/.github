@@ -1,6 +1,6 @@
 # MEFLab en GitHub
 
-¡Bienvenido a la organización en GitHub del MEFLab! Esta organitzación en GitHub contiene varios proyectos, herramientas y recursos desarrollados por el equipo del Laboratorio de Innovación de Políticas Públicas - MEFLab. Asimismo, se incluyen evaluaciones realizadas por la coordinación de evaluaciones independientes de la Dirección de Calidad del Gasto de la Dirección General de Presupuesto Público del Ministerio de Economía y Finanzas.
+¡Bienvenido a la organización en GitHub del MEFLab! Esta organitzación en GitHub contiene varios proyectos, herramientas y recursos desarrollados por el equipo del Laboratorio de Innovación de Políticas Públicas - MEFLab. Asimismo, se incluyen evaluaciones realizadas por la coordinación de evaluaciones independientes de la Dirección de Calidad del Gasto Público de la Dirección General de Presupuesto Público del Ministerio de Economía y Finanzas.
 
 ## Contribuciones
 
